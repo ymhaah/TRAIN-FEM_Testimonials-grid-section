@@ -1,6 +1,13 @@
-# [project Link](https://ymhaah.github.io/Testimonials-grid-section/)
-## from fromt end merntor [Challenge link](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7)
+# Frontend Mentor - Testimonials grid section solution
+
+This is a solution to the [Testimonials grid section](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7) challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
+- [Solution URL](https://ymhaah.github.io/TRAIN-FEM_Testimonials-grid-section/)
+- [Challenge link](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7)
+
+
 ![](https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/h05k6b7pqcylnhsw8pqs.jpg)
+
 ### Useful resources
 
 Check out my latest previous articles:
