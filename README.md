@@ -1,4 +1,5 @@
 # Frontend Mentor - Testimonials grid section solution
+> Started at: Dec 27, 2021
 
 This is a solution to the [Testimonials grid section](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7) challenge on Frontend Mentor. FrontendMentor is a platform where developers can improve their front-end skills by building real projects and receiving feedback from the community.
 
